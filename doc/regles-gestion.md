@@ -20,3 +20,15 @@
 - Une commande doit contenur la date de livraison du/des produit(s)
 - Une commande peut être confirmée
 
+## Gestion des produits 
+
+- Un produit peut ne pas être commandé
+- Un produit doit être composé d'un ID unique. 
+- Un produit possède un nom.
+- Un produit possède un une description.
+- Un produit possède un prix.
+- Un produit possède une quantité.
+- Un produit possède une date de création.
+- Un produit possède une date de mise à jour.
+- Un produit ne pet pas être commandé si son stock est à Zéro.
+- Un produit peut être consulté par tout le monde (utilisateur et visiteur).
