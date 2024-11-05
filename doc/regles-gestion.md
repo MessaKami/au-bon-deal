@@ -32,3 +32,8 @@
 - Un produit possède une date de mise à jour.
 - Un produit ne pet pas être commandé si son stock est à Zéro.
 - Un produit peut être consulté par tout le monde (utilisateur et visiteur).
+
+## Gestion des visiteurs
+
+- Un visiteur peut créer un compte user
+- Un visiteur peut se connecter.
